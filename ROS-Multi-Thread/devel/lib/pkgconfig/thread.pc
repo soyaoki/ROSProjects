@@ -1,0 +1,8 @@
+prefix=/home/soya/Desktop/thread_practice/devel
+
+Name: thread
+Description: Description of thread
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/soya/Desktop/thread_practice/devel/lib 
+Requires: 
