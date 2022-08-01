@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="reciever" name="reciever_node" type="reciever_node"/>
+	  <param  name = "enable_statistics"  value = "true"  /> 
+	<node pkg="thread" name="thread_node" type="thread_node"/>
+	  <param  name = "enable_statistics"  value = "true"  /> 
+</launch>
