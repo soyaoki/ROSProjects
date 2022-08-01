@@ -1,0 +1,8 @@
+prefix=/home/soya/Desktop/ros-msgs-structure/devel
+
+Name: custom_msgs
+Description: Description of custom_msgs
+Version: 0.0.0
+Cflags: -I/home/soya/Desktop/ros-msgs-structure/devel/include
+Libs: -L/home/soya/Desktop/ros-msgs-structure/devel/lib 
+Requires: message_runtime

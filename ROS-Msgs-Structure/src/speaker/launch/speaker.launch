@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="speaker" type="speaker_node" name="speaker_node" output="screen" cwd="node"/>
+</launch>

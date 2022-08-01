@@ -1,0 +1,5 @@
+1) devel/custom_msgs/include ni cpp youno msg file
+2) devel/custom_msgs/lib/python ni python youno msg file
+3) catkin_make --pkg custom_msgs -DPYTHON_EXECUTABLE=/usr/bin/python2 de python2 muke ni build
+4) catkin_make --pkg custom_msgs -DPYTHON_EXECUTABLE=/usr/bin/python3 de python3 muke ni build
+5) python node naide 1gyoumeni "#!/usr/bin/env python3" de python3 de jikkou

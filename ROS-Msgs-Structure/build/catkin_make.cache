@@ -1,0 +1,2 @@
+custom_msgs:listener:show_python_ver:speaker
+-DPYTHON_EXECUTABLE=/usr/bin/python3 -DCATKIN_DEVEL_PREFIX=/home/soya/Desktop/ros-msgs-structure/devel -DCMAKE_INSTALL_PREFIX=/home/soya/Desktop/ros-msgs-structure/install -G Unix Makefiles

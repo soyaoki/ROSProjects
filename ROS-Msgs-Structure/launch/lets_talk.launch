@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+    <!-- speaker node -->
+    <include file="$(find speaker)/launch/speaker.launch" />
+
+    <!--listener node -->
+    <include file="$(find listener)/launch/listener.launch"/>
+</launch>
