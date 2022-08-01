@@ -1,0 +1,12 @@
+std_msgs/Header header
+int8 mode
+int8 status
+float64 lat
+float64 lon
+float32 alt
+float32 epx
+float32 epy
+float32 epv
+float32 speed
+float32 eps
+float32 track
